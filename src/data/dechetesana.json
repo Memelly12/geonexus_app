@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "name": "questionnaire pour la collecte des déchets auprès des ménages et structures le long du littoral",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.987807, 5.342507, 45.8216590881348]
+      },
+      "properties": {
+        "start": "2024-05-15T16:54:38.282-00:00",
+        "end": "2024-05-15T16:59:43.590-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "Famille Issa",
+        "group_bl5ib47/Localisation_Quartier_Village": "Yopougon",
+        "group_bl5ib47/Veuillez_entrer_votr_num_ro_de_t_l_phone": "0565910732",
+        "group_bl5ib47/Date": "2024-05-15",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "d_chets_alimentaires plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "10___25_kg",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.342507",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-3.987807",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "45.821659088134766",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "40",
+        "group_ho2jf05/Veillez_prendre_une_d_chets_si_possible": "image-16_59_12.jpg",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "quotidienne",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "sacs_poubelle",
+        "group_ja1gy24/Avez_vous_des_remarques_suppl_mentaires": "Non"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.730839, 5.211665, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T17:01:39.071-00:00",
+        "end": "2024-05-15T17:05:02.209-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "aqualine",
+        "group_bl5ib47/Localisation_Quartier_Village": "grand bassam",
+        "group_bl5ib47/Veuillez_entrer_votr_num_ro_de_t_l_phone": "0708777974",
+        "group_bl5ib47/Date": "2024-05-15",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "25___50_kg",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.211665",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-3.730839",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_ho2jf05/Veillez_prendre_une_d_chets_si_possible": "1-17_3_49.jpg",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "hebdomadaire",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "bacs_de_collecte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.32353, 5.1385, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T17:05:02.245-00:00",
+        "end": "2024-05-15T17:06:32.600-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "cobacabana",
+        "group_bl5ib47/Localisation_Quartier_Village": "assinie",
+        "group_bl5ib47/Veuillez_entrer_votr_num_ro_de_t_l_phone": "0708045634",
+        "group_bl5ib47/Date": "2024-05-14",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques verre papier_carton",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "10___25_kg",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.1385",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-3.32353",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_ho2jf05/Veillez_prendre_une_d_chets_si_possible": "3-17_6_17.jpg",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "hebdomadaire",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "bacs_de_collecte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.736957, 5.195178, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T16:54:58.023-00:00",
+        "end": "2024-05-15T17:11:05.493-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "MAISON DU KAI",
+        "group_bl5ib47/Localisation_Quartier_Village": "ABIDJAN",
+        "group_bl5ib47/Veuillez_entrer_votr_num_ro_de_t_l_phone": "0777856025",
+        "group_bl5ib47/Date": "2024-05-15",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "50_kg_et_plus",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.195178",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-3.736957",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_ho2jf05/Veillez_prendre_une_d_chets_si_possible": "nettoyage-0000-17_10_33.jpg",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "hebdomadaire",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "bacs_de_collecte",
+        "group_ja1gy24/Avez_vous_des_remarques_suppl_mentaires": "non"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.249832, 5.304952, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T17:11:05.533-00:00",
+        "end": "2024-05-16T12:08:39.144-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "MAISON KONE",
+        "group_bl5ib47/Localisation_Quartier_Village": "SONGON-TE",
+        "group_bl5ib47/Date": "2024-05-16",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "25___50_kg",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.304952",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-4.249832",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "hebdomadaire",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "sacs_poubelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.186616, 5.307088, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:08:39.165-00:00",
+        "end": "2024-05-16T12:10:12.500-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "MAISON FANY",
+        "group_bl5ib47/Localisation_Quartier_Village": "ADIAPOTO II",
+        "group_bl5ib47/Date": "2024-05-16",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "50_kg_et_plus",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.307088",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-4.186616",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "quotidienne",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "sacs_poubelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.959247, 5.256065, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:10:12.514-00:00",
+        "end": "2024-05-16T12:11:14.557-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "FAMILLE GNAKANNANSI",
+        "group_bl5ib47/Localisation_Quartier_Village": "PORT BOUET",
+        "group_bl5ib47/Date": "2024-05-16",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "10___25_kg",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.256065",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-3.959247",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "bihebdomadaire",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "bacs_de_collecte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.82141, 5.303257, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:11:14.571-00:00",
+        "end": "2024-05-16T12:12:13.927-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "MAISON KOUAKOU",
+        "group_bl5ib47/Localisation_Quartier_Village": "BREGBO",
+        "group_bl5ib47/Date": "2024-05-16",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "25___50_kg",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.303257",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-3.82141",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "mensuelle",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "bacs_de_collecte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.419717, 5.209481, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:12:13.951-00:00",
+        "end": "2024-05-16T12:13:24.091-00:00",
+        "group_bl5ib47/Nom_du_m_nage_ou_de_la_structure_": "FAMILLE GNAMELE",
+        "group_bl5ib47/Localisation_Quartier_Village": "JACQUEVILLE",
+        "group_bl5ib47/Date": "2024-05-16",
+        "group_ma19h34/Quels_types_de_d_chets_avez_vo": "plastiques",
+        "group_ho2jf05/Estimez_le_volume_to_m_nage_en_Kilogramme": "50_kg_et_plus",
+        "group_ho2jf05/_Prise_de_position_GPS_latitude": "5.209481",
+        "group_ho2jf05/_Prise_de_position_GPS_longitude": "-4.419717",
+        "group_ho2jf05/_Prise_de_position_GPS_altitude": "0",
+        "group_ho2jf05/_Prise_de_position_GPS_precision": "0",
+        "group_qx6fb13/_quelle_fr_quence_a_domadaire_mensuelle": "mensuelle",
+        "group_ws6jr92/Par_quel_moyen_pr_f_stocker_vos_d_chets_": "bacs_de_collecte"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.section3 {
+  background-color: #023e8a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  margin: 10%;
+  border-radius: 60px 140px 60px 140px;
+  height: 50vh;
+}

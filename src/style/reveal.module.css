@@ -1,0 +1,33 @@
+[class*="reveal"] {
+  opacity: 0;
+  transform: translateX(-30px);
+}
+[class*="revealRight"] {
+  opacity: 0;
+  transform: translateX(30px);
+  transition: 1s cubic-bezier(0.43, -0.47, 0, 1.01);
+}
+.visible {
+  opacity: 1;
+  transform: translateX(0);
+  transition: 1s cubic-bezier(0.43, -0.47, 0, 1.01);
+}
+.reveal1 {
+  transition-delay: 0.5s;
+}
+.reveal2 {
+  transition-delay: 1s;
+}
+.reveal3 {
+  transition-delay: 1.5s;
+}
+
+.revealRight1 {
+  transition-delay: 0.5s;
+}
+.revealRight2 {
+  transition-delay: 1s;
+}
+.revealRight3 {
+  transition-delay: 1.5s;
+}

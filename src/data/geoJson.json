@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "name": "Collecte de données sur la pollution par les déchets plastiques dans l'écosystème marin et côtier de Côte d'ivoire",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.989753, 5.340417, 36.4133853912354]
+      },
+      "properties": {
+        "start": "2024-05-15T08:45:55.694-00:00",
+        "end": "2024-05-15T08:48:12.132-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "Rachidekoubi",
+        "group_ye2we09/Localisation_Ville_Village_": "Grand Bassam",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-02",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "image-8_46_34.jpg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.340417",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-3.989753",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "36.41338539123535",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "55",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "d_chets_industriels",
+        "group_ta6xf59/Avez_vous_des_observ_es_dans_votre_r_gion": "Les déchets plastiques au bord de l’eau nous fatigue beaucoup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.987872, 5.342647, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T10:37:10.353-00:00",
+        "end": "2024-05-15T10:38:44.118-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "GNAMELE",
+        "group_ye2we09/Localisation_Ville_Village_": "ABIDJAN",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-15",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "1710704770309-10_37_50.jpeg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.342647",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-3.987872",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "14.456",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "tourisme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.711156, 5.194851, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T11:09:50.145-00:00",
+        "end": "2024-05-15T11:11:25.287-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "elie memel",
+        "group_ye2we09/Localisation_Ville_Village_": "grand-bassam",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-15",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "Capture d’écran du 2024-04-29 08-21-45-11_11_22.png",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.194851",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-3.711156",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "p_che",
+        "group_ta6xf59/Avez_vous_des_observ_es_dans_votre_r_gion": "xxxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.18939, 5.306989, 0]
+      },
+      "properties": {
+        "start": "2024-05-15T11:11:25.457-00:00",
+        "end": "2024-05-15T11:13:21.336-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "mamadou",
+        "group_ye2we09/Localisation_Ville_Village_": "abidjan",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-15",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "Capture d’écran du 2024-04-25 16-22-14-11_13_18.png",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.306989",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-4.18939",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "tourisme",
+        "group_ta6xf59/Avez_vous_des_observ_es_dans_votre_r_gion": "xxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.958679, 5.258004, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:13:43.158-00:00",
+        "end": "2024-05-16T12:16:14.536-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "GNAMELE",
+        "group_ye2we09/Localisation_Ville_Village_": "PORT BOUET",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-16",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "5MFNU6TEG5GW3PYSSACSGJDFKY-12_16_8.jpg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.258004",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-3.958679",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "tourisme d_chets_urbains d_chets_industriels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.643426, 4.757915, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:16:14.564-00:00",
+        "end": "2024-05-16T12:17:10.300-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "GNKANNANSI",
+        "group_ye2we09/Localisation_Ville_Village_": "SAN PEDRO",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-16",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "1710704770309-12_17_7.jpeg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "4.757915",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-6.643426",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "tourisme d_chets_urbains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.741635, 5.212874, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:17:10.324-00:00",
+        "end": "2024-05-16T12:18:10.232-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "KOUAKOU",
+        "group_ye2we09/Localisation_Ville_Village_": "GRAND BASSAM",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-16",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "nettoyage-0000-12_18_7.jpg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.212874",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-3.741635",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "tourisme d_chets_urbains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.091806, 4.948736, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:18:10.262-00:00",
+        "end": "2024-05-16T12:19:30.129-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "N'DRI",
+        "group_ye2we09/Localisation_Ville_Village_": "SASSANDRA",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-16",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "1053875947_0_160_3073_1888_1920x0_80_0_0_87eb7ad9f5e4be1fc49e8b8bbe897c2b-12_19_26.jpg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "4.948736",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-6.091806",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "p_che d_chets_urbains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.956588, 5.246059, 0]
+      },
+      "properties": {
+        "start": "2024-05-16T12:19:30.165-00:00",
+        "end": "2024-05-16T12:20:31.079-00:00",
+        "group_ye2we09/Quel_est_votre_nom": "JACKSON",
+        "group_ye2we09/Localisation_Ville_Village_": "GRAND LAHOU",
+        "group_ye2we09/Date_de_la_collecte": "2024-05-16",
+        "group_hq9px84/Avez_vous_remarqu_des_d_chets": "oui",
+        "group_hq9px84/Veuillez_prendre_une_des_d_chets_observez": "nettoyage-0001-12_19_59.jpg",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_latitude": "5.246059",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_longitude": "-4.956588",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_altitude": "0",
+        "group_hq9px84/_Positon_GPS_de_l_endroit_precision": "0",
+        "group_hq9px84/_votre_avis_quelle_s_dans_votre_r_gion_": "p_che d_chets_urbains"
+      }
+    }
+  ]
+}
